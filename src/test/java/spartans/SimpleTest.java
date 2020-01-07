@@ -11,7 +11,7 @@ public class SimpleTest {
 
         System.out.println("Hello");
         int x = 9 ;
-        assertEquals(x , 9) ;
+        assertEquals(x , 9,"They are equal") ;
 
     }
 
